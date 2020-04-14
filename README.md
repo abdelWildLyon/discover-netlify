@@ -6,6 +6,6 @@
 
 * Deploy the project on Netlify
 
-## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+## Deployment
+* Link to the website deployed on Netlify : [Link](https://nifty-poitras-310c4c.netlify.com/)
